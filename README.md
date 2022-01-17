@@ -1,6 +1,5 @@
 # Bash-Programming 30-Bash-Script-Examples
-
-                                                                                       
+```                                                             
      ______  _______         _____  _____   ______  _____   ______    _____      _____ 
     |      \/       \    ___|\    \|\    \ |\     \|\    \ |\     \  |\    \    /    /|
    /          /\     \  /    /\    \\\    \| \     \\\    \| \     \ | \    \  /    / |
@@ -13,7 +12,7 @@
  \|____|      |____|/  |____|  |____| |____|   |___|/ |____|   |___|/    |_____|/      
     \(          )/       \(      )/     \(       )/     \(       )/         )/         
      '          '         '      '       '       '       '       '          '          
-                                                                                       
+```
 I am using the following link to study 30 Bash Scripts
 https://linuxhint.com/30_bash_script_examples/
 
